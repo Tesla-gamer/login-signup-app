@@ -1,6 +1,6 @@
 # login-signup-app
 
-![login](https://user-images.githubusercontent.com/70539485/142238337-9ae7bdc0-cc93-4992-887d-27b144abcf49.PNG)![signup](https://user-images.githubusercontent.com/70539485/142238362-23fd4b68-4d5e-4b43-9828-946298f7e016.PNG)
+![login](https://user-images.githubusercontent.com/70539485/142238337-9ae7bdc0-cc93-4992-887d-27b144abcf49.PNG)        ![signup](https://user-images.githubusercontent.com/70539485/142238362-23fd4b68-4d5e-4b43-9828-946298f7e016.PNG)
 
 
       
